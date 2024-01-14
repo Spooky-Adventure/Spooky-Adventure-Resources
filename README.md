@@ -1,38 +1,14 @@
-# Super Mario Spooky Adventure
-## Resources & Game Files
+# Spooky Adventure Resources
 
 ### Preamble
 
-This is the in-game parts of Super Mario Spooky Adventure, the assets, compiled code files, and much more. As of now, not much will be here, but as development progresses, more will be added! Go here  to see the [source code][sc].
-
-#
+In the future, you'll be able to find resources and such for the Spooky Adventure project here, such as KPMAP files, in-game messages, notes, and much more! Go here  to see the [source code][sc].
 
 If you want to follow development, join our [Discord Server][discord].
 
 *-MandyIGuess, 5th August 2022*
 
-### What's Here
-This is what is here (or expected to be here :p). Expect this to become larger over time. Striked-out entries define what's to come at a later date. Note that unused and cut content will be found in the "Unused" branch of the repository.
-
-#### Master Branch
-
-- ~~Riivolution Patch~~
-- Resources
-    - LevelSamples
-    - WorldMaps
-    - WorldMapTilesets
-- ~~Releases~~
-
-#### Pre-pre-pre-pre-alpha Branch
-(This is a joke name, but it's a *really* old version)
-
-- Riivolution Patch
-- Resources
-
-More to come?
-
 [discord]:
-https://discord.gg/af4TBAuZBr
-
+https://discord.gg/fW5D3b6WQ8
 [sc]:
 https://github.com/Spooky-Adventure/Spooky-Adventure-Source-Code
